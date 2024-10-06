@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/Users/leahboalich/Documents/javafx-sdk-17.0.12/lib/**/*.jar",
+        "/Users/leahboalich/Documents/mysql-connector-j-9.0.0/mysql-connector-j-9.0.0.jar"
+    ]
+}
